@@ -1,13 +1,5 @@
-Copyright Notice:
------------------
-The files within this zip file are copyrighted by Lazy Foo' Productions 2004-2024
-and may not be redistributed without written permission.
+# GAME SDL-CPP
+# Tạo game Phane and bomb đơn giản với SDL
 
-This project is linked against:
-----------------------------------------
-Windows:
-SDL2
-SDL2main
 
-*nix:
-SDL2
+hãy ăn những cái khiên ![khien](https://github.com/leducanhtai/demo/assets/161910484/55b9dc68-9dca-4b73-803f-d1828021dfed) để kích hoạt
